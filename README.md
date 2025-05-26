@@ -1,4 +1,4 @@
-# AWS Worshop List
+# AWS Workshop List
 
 This repository contains list of hands-on projects using AWS infrastructure.
 Go and Smash it. \m/
